@@ -2,7 +2,7 @@
 
 Let's keep the momentum going over break!
 
-## Strongly encouraged work
+## *Strongly encouraged*
 As you work through the following 3 exercises, use a branching workflow with pull requests.
 
 1. [ ] [JSFun](https://frontend.turing.io/projects/JSFun.html)
@@ -11,11 +11,12 @@ As you work through the following 3 exercises, use a branching workflow with pul
 4. [ ] Ask your mentor for a review on one of your pull requests
 5. [ ] Ask your accountabilibuddy for a review on one of your pull requests and give them one in return
 
-## Work if you want to review
+## *If you want more practice*
 
 * [ ] Add a feature to your own pair or solo project
+* [ ] Utilize auditing tools and voiceover to make your fitlit project more accessible
 
-## Work if you want to stretch
+## *If you want a challenge*
 
 * [ ] Add a feature to someone else’s pair or solo project
 * [ ] Implement data visualization on your fitlit project
