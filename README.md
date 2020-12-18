@@ -15,6 +15,7 @@ As you work through the following 3 exercises, use a branching workflow with pul
 
 * [ ] Add a feature to your own pair or solo project
 * [ ] Utilize auditing tools and voiceover to make your fitlit project more accessible
+* [ ] Exercisms or codewars
 
 ## *If you want a challenge*
 
