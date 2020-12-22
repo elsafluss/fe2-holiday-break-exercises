@@ -24,3 +24,5 @@ As you work through the following 3 exercises, use a branching workflow with pul
 
 ## *Submission Form*
 * [ ] Please submit the repo links to your **Static Comp** and **Network Request Exercise** to [this form](https://forms.gle/1wxfQ8K1hyHdhc4q8).
+
+https://github.com/elsafluss/network-request-exercises
